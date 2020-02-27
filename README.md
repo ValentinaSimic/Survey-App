@@ -16,7 +16,7 @@ The project describes and implements the development of a survey system as well 
 The motivation for this application is to answer the question of how to best reap the benefits of Nosql databases.
 
 ## Screenshots
-![Example screenshot](./1.png)
+![Example screenshot](./1.jpg)
 
 ## Task
 The task of the application is to enable the respondent to answer the survey questions, to store the respondent's answers, where everything will be anonymous. Processing of data obtained through the answers of the respondents and presentation of the data obtained.
