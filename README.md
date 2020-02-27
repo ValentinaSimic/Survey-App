@@ -1,15 +1,15 @@
-#The popularity of online shopping - survey-app
-> Here goes your awesome project description!
+# The popularity of online shopping - survey-app
+> A web application for polling, processing survey data and displaying results.
 
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
+* [Task](#task)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
+* [Functionality](#functionality)
 * [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [Run Locally](#run-locally)
+
 
 ## General info
 Add more general information about project. What the purpose of the project is? Motivation?
@@ -17,19 +17,23 @@ Add more general information about project. What the purpose of the project is? 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+## Task
 
-## Setup
+## Technologies
+* HTML5
+* CSS
+* JavaScript, Bootstrap
+* Java, Spring Boot framework
+* MongoDB
+
+
+## Functionality
 Describe how to install / setup your local environement / add link to demo version.
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+## Status
+Project is: _finished_
 
-## Features
+## Run Locally
 List of features ready and TODOs for future development
 * Awesome feature 1
 * Awesome feature 2
