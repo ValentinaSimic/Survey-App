@@ -20,6 +20,7 @@ The motivation for this application is to answer the question of how to best rea
 ![Example screenshot](./screenshots/2.jpg) 
 ![Example screenshot](./screenshots/3.jpg) 
 ![Example screenshot](./screenshots/4.jpg) 
+![Example screenshot](./screenshots/5.jpg) 
 
 ## Task
 The task of the application is to enable the respondent to answer the survey questions, to store the respondent's answers, where everything will be anonymous. Processing of data obtained through the answers of the respondents and presentation of the data obtained.
