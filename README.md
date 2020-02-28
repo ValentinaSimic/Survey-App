@@ -8,7 +8,7 @@
 * [Technologies](#technologies)
 * [Functionality](#functionality)
 * [Status](#status)
-* [Run Locally](#run-locally)
+
 
 
 ## General info
@@ -39,10 +39,6 @@ A MapReduce was used to implement a slightly more complex method.
 
 ## Status
 Project is: _finished_
-
-## Run Locally
-
-
 
 ## Contact
 Created by [@ValentinaSimic](https://github.com/ValentinaSimic) - feel free to contact me!
