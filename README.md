@@ -1,4 +1,4 @@
-# The popularity of online shopping - survey-app
+# The popularity of online shopping - Aurvey-App
 > A web application for polling, processing survey data and displaying results.
 
 ## Table of contents
