@@ -1,4 +1,4 @@
-# The popularity of online shopping - Aurvey-App
+# The popularity of online shopping - Survey-App
 > A web application for polling, processing survey data and displaying results.
 
 ## Table of contents
@@ -29,8 +29,8 @@ The task of the application is to enable the respondent to answer the survey que
 * HTML5
 * CSS
 * JavaScript, I used the Chart.JS to show the survey results as visually as possible.
-* Java, Spring Boot framework-it was used to implement business logic.
-* MongoDB- Instead of the traditional structure of relational database tables, MongoDB is document-oriented and survey-         friendly.The base was not installed locally and NoSql Booster was used to access the base.
+* Java, Spring Boot framework - it was used to implement business logic.
+* MongoDB - Instead of the traditional structure of relational database tables, MongoDB is document-oriented and survey-         friendly.The base was not installed locally and NoSql Booster was used to access the base.
 
 
 ## Functionality
